@@ -1,0 +1,61 @@
+/**
+ * M365 OAuth Mailer Admin Styles
+ */
+
+.m365-admin-content {
+    margin-top: 20px;
+}
+
+.m365-config-info {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+.m365-config-info ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.m365-config-info code {
+    background: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+}
+
+.m365-logs-header {
+    margin: 20px 0;
+}
+
+.m365-status {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.m365-status-success {
+    background: #d4edda;
+    color: #155724;
+}
+
+.m365-status-failed {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.m365-test-info {
+    margin-top: 30px;
+    padding: 15px;
+    background: #f0f0f1;
+    border-left: 4px solid #2271b1;
+}
+
+.m365-test-info h3 {
+    margin-top: 0;
+}
